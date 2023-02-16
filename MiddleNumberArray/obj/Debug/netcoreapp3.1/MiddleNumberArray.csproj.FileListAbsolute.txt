@@ -1,0 +1,14 @@
+C:\Users\Omen\Documents\Lb1\MiddleNumberArray\bin\Debug\netcoreapp3.1\MiddleNumberArray.exe
+C:\Users\Omen\Documents\Lb1\MiddleNumberArray\bin\Debug\netcoreapp3.1\MiddleNumberArray.deps.json
+C:\Users\Omen\Documents\Lb1\MiddleNumberArray\bin\Debug\netcoreapp3.1\MiddleNumberArray.runtimeconfig.json
+C:\Users\Omen\Documents\Lb1\MiddleNumberArray\bin\Debug\netcoreapp3.1\MiddleNumberArray.runtimeconfig.dev.json
+C:\Users\Omen\Documents\Lb1\MiddleNumberArray\bin\Debug\netcoreapp3.1\MiddleNumberArray.dll
+C:\Users\Omen\Documents\Lb1\MiddleNumberArray\bin\Debug\netcoreapp3.1\MiddleNumberArray.pdb
+C:\Users\Omen\Documents\Lb1\MiddleNumberArray\obj\Debug\netcoreapp3.1\MiddleNumberArray.csproj.AssemblyReference.cache
+C:\Users\Omen\Documents\Lb1\MiddleNumberArray\obj\Debug\netcoreapp3.1\MiddleNumberArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omen\Documents\Lb1\MiddleNumberArray\obj\Debug\netcoreapp3.1\MiddleNumberArray.AssemblyInfoInputs.cache
+C:\Users\Omen\Documents\Lb1\MiddleNumberArray\obj\Debug\netcoreapp3.1\MiddleNumberArray.AssemblyInfo.cs
+C:\Users\Omen\Documents\Lb1\MiddleNumberArray\obj\Debug\netcoreapp3.1\MiddleNumberArray.csproj.CoreCompileInputs.cache
+C:\Users\Omen\Documents\Lb1\MiddleNumberArray\obj\Debug\netcoreapp3.1\MiddleNumberArray.dll
+C:\Users\Omen\Documents\Lb1\MiddleNumberArray\obj\Debug\netcoreapp3.1\MiddleNumberArray.pdb
+C:\Users\Omen\Documents\Lb1\MiddleNumberArray\obj\Debug\netcoreapp3.1\MiddleNumberArray.genruntimeconfig.cache
