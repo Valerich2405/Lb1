@@ -1,0 +1,14 @@
+C:\Users\Omen\Documents\Lb1\MiddleNumber\bin\Debug\netcoreapp3.1\MiddleNumber.exe
+C:\Users\Omen\Documents\Lb1\MiddleNumber\bin\Debug\netcoreapp3.1\MiddleNumber.deps.json
+C:\Users\Omen\Documents\Lb1\MiddleNumber\bin\Debug\netcoreapp3.1\MiddleNumber.runtimeconfig.json
+C:\Users\Omen\Documents\Lb1\MiddleNumber\bin\Debug\netcoreapp3.1\MiddleNumber.runtimeconfig.dev.json
+C:\Users\Omen\Documents\Lb1\MiddleNumber\bin\Debug\netcoreapp3.1\MiddleNumber.dll
+C:\Users\Omen\Documents\Lb1\MiddleNumber\bin\Debug\netcoreapp3.1\MiddleNumber.pdb
+C:\Users\Omen\Documents\Lb1\MiddleNumber\obj\Debug\netcoreapp3.1\MiddleNumber.csproj.AssemblyReference.cache
+C:\Users\Omen\Documents\Lb1\MiddleNumber\obj\Debug\netcoreapp3.1\MiddleNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omen\Documents\Lb1\MiddleNumber\obj\Debug\netcoreapp3.1\MiddleNumber.AssemblyInfoInputs.cache
+C:\Users\Omen\Documents\Lb1\MiddleNumber\obj\Debug\netcoreapp3.1\MiddleNumber.AssemblyInfo.cs
+C:\Users\Omen\Documents\Lb1\MiddleNumber\obj\Debug\netcoreapp3.1\MiddleNumber.csproj.CoreCompileInputs.cache
+C:\Users\Omen\Documents\Lb1\MiddleNumber\obj\Debug\netcoreapp3.1\MiddleNumber.dll
+C:\Users\Omen\Documents\Lb1\MiddleNumber\obj\Debug\netcoreapp3.1\MiddleNumber.pdb
+C:\Users\Omen\Documents\Lb1\MiddleNumber\obj\Debug\netcoreapp3.1\MiddleNumber.genruntimeconfig.cache
